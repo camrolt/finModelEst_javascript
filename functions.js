@@ -1,5 +1,6 @@
 
 
+// Computes the tax using the 2021 tax brakets. Inflation factor (1.00 being standard) can be applied to approximate future years.
 
 function ComputeTax_fv(income_pv, inflation_accume, deduction_pv){
     max =  [0, 9875, 40125, 85525, 163300, 207350, 518400,  Infinity];
