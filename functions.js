@@ -1,6 +1,6 @@
 
 
-// Computes the tax using the 2021 tax brakets. Inflation factor (1.00 being standard) can be applied to approximate future years.
+// Computes the tax using the 2021 tax brakets. Inflation factor (1.00 being standard) can be applied to approximate future years... which is wrong but might be useful.
 // Brakets are for single filing
 
 // will find the max of std calculation or amt
